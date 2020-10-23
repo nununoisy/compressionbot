@@ -1,0 +1,21 @@
+{
+  "name": "compressionbot",
+  "version": "1.0.0",
+  "description": "discord bot that compresses the life out of videos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "ffmpeg",
+    "video"
+  ],
+  "author": "nununoisy",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.4.0",
+    "ffmpeg": "0.0.4",
+    "node-fetch": "^2.6.1"
+  }
+}
